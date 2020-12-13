@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 aaa dev
 and simple.
 dev. again.
+ddd dev1
 debug in issue-101
 hey dev
 hey dev dev
