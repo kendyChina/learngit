@@ -1,3 +1,2 @@
 builded in branch dev1
 test1 dev1
-debug master
